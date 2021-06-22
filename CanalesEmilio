@@ -1,0 +1,62 @@
+#EXTM3U
+
+#EXTINF:-1 ,FM Movies 2
+https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/playlist.m3u8
+
+#EXTINF:-1 ,Rakuten Family 2
+https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 ,Cine Perú
+https://stmv.panel.mivideo.pro/cineperu/cineperu/playlist.m3u8
+
+#EXTINF:-1 ,FM Movies3
+https://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u8
+
+#EXTINF:-1 ,Rakuten Comedy Movies 2
+https://rakuten-comedymovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 ,Rakuten Action Movies 2
+https://rakuten-actionmovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 ,Rakuten Run Time
+https://runtime-espana-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 ,Top Cine
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+
+#EXTINF:-1 ,Duck TV
+https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee512f.m3u8
+
+#EXTINF:-1 ,Canal 74 HD
+https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
+
+#EXTINF:-1 ,Los Simson
+https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
+
+#EXTINF:-1 ,FM Super Clásicos
+https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
+
+#EXTINF:-1 ,Chinola TV
+https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
+
+#EXTINF:-1 ,Butaca TV
+https://veranda-butacatv-1-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 ,Cascara TV
+https://ss5.domint.net:3036/ctv_str/cascaratv/playlist.m3u8
+
+#EXTINF:-1 ,Go Max Premium
+https://stmvideo1.livecastv.com/iptvgo/iptvgo/playlist.m3u8
+
+#EXTINF:-1 ,
+https://panel.streamingtv-mediacp.online:1936/8054/8054/.m3u8
+
+#EXTINF:-1 ,Cablemas
+https://59ce1298bfb98.streamlock.net/cablemas/cablemas/playlist.m3u8
+
+#EXTINF:-1 ,Infinita TV
+https://rtmp02.portalexpress.es/infinitatv/infinitatv/playlist.m3u8
+
+#EXTINF:-1 ,Retro Play TV
+https://paneltv.online:1936/8138/8138/chunklist_w157079350.m3u8
+EXTINF:-1 ,Pluto TV Truetitcher.clusters.pluto.tv/stitch/hls/channel/5f7b47f12a45590007821749/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8a2ca4-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=db32e708-3f49-4116-9202-54e60c2967ae&userId=&serverSideAds=tru#EXTINF:-1 ,Pluto TV m3u8ion=&clientTime=0&deviceDNT=0&deviceId=1c8a2ca4-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=db32e708-3f49-4116-9202-54e60c2967ae&userId=&serverSideAds=true.m3u8ps://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7274806621ff00072651ff/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channelttp://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7b47f12a45590007821749/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8a2ca4-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=db32e708-3f49-4116-9202-54e60c2967ae&userId=&serverSideAds=true.m3u8EXTINF:-1 ,Pluto TV Channelhttps://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7274806621ff00072651ff/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=
